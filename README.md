@@ -13,5 +13,5 @@ Illustrations of client and a celebrity
 ### Pencil Sketch
 Here are a few pencil sketches
 
-![iu sketch](https://user-images.githubusercontent.com/121748146/210522667-bfec2fd8-c329-411f-976a-d4a4499a4bae.JPG)
+![IMG_20210829_192204](https://user-images.githubusercontent.com/121748146/210523065-062d8f25-f3b4-4edf-a781-ea474e07fa2a.jpg)
 ![IMG_20211013_175805](https://user-images.githubusercontent.com/121748146/210522639-6201c790-d913-4a93-aef0-67894be464ed.jpg)
