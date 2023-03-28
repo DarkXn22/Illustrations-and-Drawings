@@ -1,6 +1,10 @@
 # Illustrations-and-Drawings
 ### Character Design
 
+![APE INSTA](https://user-images.githubusercontent.com/121748146/228293923-4952e9a0-7a1b-4453-ad67-4368be2c21ec.jpg)
+![GREEN WITCH](https://user-images.githubusercontent.com/121748146/228293937-1a690f4c-6d16-4edd-8328-a451fbf40a00.jpg)
+![INARA](https://user-images.githubusercontent.com/121748146/228293944-bfdf9795-9a49-44d3-9cd7-150d8e6fa73f.jpg)
+
 ### NFT Characters
 Nft design 
 
